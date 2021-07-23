@@ -8,16 +8,16 @@ Run the following command in terminal to install the required packages.
 `pip3 install -r requirements.txt` 
 
 ## Understanding the data
-Area --Area of the Property in square feet
-BHK -- No. of Bedrooms along with 1 Hall and 1 kitchen
-Bathroom -- No. of Bathrooms
-Furnishing -- Whether listed property is furnished , unfurnished or semi furnished
-Locality -- Locality in which property lies
-Parking -- No. of parking available
-Price -- This is the Price of property in INR
-Status -- property's status as in 'ready to move' or still under construction
-Transaction -- Its a new property or being re-sold
-Type -- Its an Apartment or Builder Floor
+* Area --Area of the Property in square feet
+* BHK -- No. of Bedrooms along with 1 Hall and 1 kitchen
+* Bathroom -- No. of Bathrooms
+* Furnishing -- Whether listed property is furnished , unfurnished or semi furnished
+* Locality -- Locality in which property lies
+* Parking -- No. of parking available
+* Price -- This is the Price of property in INR
+* Status -- property's status as in 'ready to move' or still under construction
+* Transaction -- Its a new property or being re-sold
+* Type -- Its an Apartment or Builder Floor
 
 ## Usage
 The notebook includes all the markdowns which explain the process. 
